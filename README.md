@@ -1,2 +1,2 @@
 # Day1Rust
-Repo fir learning The Rust Programming language
+Repo for learning The Rust Programming language
