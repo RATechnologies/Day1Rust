@@ -1,0 +1,236 @@
+18:06:07 From bereisheet b. To Everyone:
+	thanks for adding that Zoom link! I wasn't able to get in with the 1 listed😄🙏
+18:06:30 From Perry To Everyone:
+	JNDI vulnerability
+18:06:53 From bereisheet b. To Everyone:
+	its all good! we're here now👍
+18:07:06 From Shiva To Everyone:
+	Hey everyone!
+18:07:10 From Perry To Everyone:
+	Well!
+18:07:23 From Perry To Everyone:
+	JNDI hacking
+18:09:14 From bereisheet b. To Everyone:
+	I love girl scout 🍪 cookies!
+18:09:14 From Perry To Everyone:
+	Know anything about vulnerable servers???
+18:09:45 From bereisheet b. To Everyone:
+	no
+18:09:49 From Lana To Everyone:
+	no
+18:09:52 From Andrew To Everyone:
+	Yes
+18:10:11 From Lubna To Everyone:
+	hoping to install compiler in this meeting
+18:10:21 From Perry To Everyone:
+	JavaScript ASF
+18:11:42 From Perry To Everyone:
+	I don’t expect much from you little sisters
+18:12:02 From Joe Ganci To Everyone:
+	are you recording this?
+18:14:27 From Dave Fuller To Everyone:
+	https://visualstudio.microsoft.com/visual-cpp-build-tools/
+18:15:08 From Joe Ganci To Everyone:
+	thank you
+18:16:21 From Kevin Cole To Everyone:
+	Hail all.
+18:16:35 From David Fox To Everyone:
+	hello from manassas!
+18:16:42 From Dave Fuller To Everyone:
+	https://visualstudio.microsoft.com/visual-cpp-build-tools/
+18:17:07 From Joe Ganci To Everyone:
+	I'm installing the C++ compiler and it has a lot of options. which ones do we need?
+18:17:23 From Joe Ganci To Everyone:
+	Ctrl-C for me seems to not work half the time
+18:17:35 From Trey To Everyone:
+	From the website: "When asked which workloads to install make sure “C++ build tools” is selected and that the Windows 10 SDK and the English language pack components are included."
+18:18:14 From Joe Ganci To Everyone:
+	Thanks, Trey\
+18:18:46 From Kevin Cole To Dave Fuller(Direct Message):
+	I suggest moving the mic further from the keyboard if you can. (It's a bit like beat poetry: You're speaking to a muted bass drum beat.)
+18:19:59 From David Fox To Everyone:
+	ctrl-Z ?
+18:20:06 From Samuel J Rembisz To Everyone:
+	curl just downloads the html for the page
+18:20:28 From David Fox To Everyone:
+	that curl statement installs rustup—an installer tool for rust
+18:20:43 From Dave Fuller To Kevin Cole(Direct Message):
+	https://doc.rust-lang.org/book/ch01-01-installation.html
+18:21:03 From David Fox To Everyone:
+	curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+18:21:38 From meral To Dave Fuller(Direct Message):
+	Downloaded
+18:21:53 From Samuel J Rembisz To Everyone:
+	I can't remember if rustup-init installs the build tools
+18:21:59 From Samuel J Rembisz To Everyone:
+	for windows
+18:22:00 From Joe Ganci To Everyone:
+	Surprise!
+18:24:11 From David Fox To Everyone:
+	ive been a software engineer for almost 20 years and im definitely still not good at it 🤣 but rust is cool 🙂
+18:25:58 From Joe Ganci To Everyone:
+	I started programming while attending the American School of Milan (Italy) on a dumb teletypewriter terminal connected to a Honeywell Mark 3 (I think) somewhere in Europe. No screen, paper tape, very loud keyboard
+18:26:15 From Joe Ganci To Everyone:
+	ASM = High School
+18:26:58 From Joe Ganci To Everyone:
+	I graduated with a Com SCI BS. I hated Calculus, Statistics, and Physics classes, though I do like reading physics now
+18:28:29 From Michael P. To Everyone:
+	good so far
+18:28:33 From Joe Ganci To Everyone:
+	It's still installing the C++ compiler
+18:28:47 From Joe Ganci To Everyone:
+	But please proceed.
+18:28:53 From Lana To Everyone:
+	still installing on Win 10
+18:28:59 From Lubna To Everyone:
+	I think I've installed everything now
+18:29:09 From Michael P. To Everyone:
+	refill!!
+18:30:37 From Samuel J Rembisz To Everyone:
+	Haha, I really enjoy Rust docs, but some people really dislike it
+18:30:41 From Kevin Cole To Dave Fuller(Direct Message):
+	Linux for the win! I started that early too, and became a RHCE (note the fedora). But these days, I'm into music. Ubuntu Studio + KX Studio. Haven't used Windows in over a decade.
+18:31:59 From Lana To Everyone:
+	so on Windows 10 should I open the cmd prompt?
+18:32:04 From David Fox To Everyone:
+	still havent figured out how best to navigate rust docs. best guess is i still dont really know what things are called
+18:32:31 From Lana To Everyone:
+	not sure
+18:32:47 From Samuel J Rembisz To Everyone:
+	Yeah, I don't find myself navigating the full docs when it comes to crates, I normally just google something and the page that I need comes up with full documentation and examples built in
+18:33:57 From David Fox To Everyone:
+	the examples in documentation are a pretty great feature
+18:34:07 From Joe Ganci To Everyone:
+	Yep, windows wants me to reboot so I'll hold off until after the meeting
+18:34:54 From Joe Ganci To Everyone:
+	all good
+18:34:56 From Trey To Everyone:
+	I'm fine with moving on!
+18:35:22 From Kevin Cole To Everyone:
+	"Forward! Into the past!" -- Firesign Theater
+18:35:39 From dave To Everyone:
+	@lana do you have Powershell?
+18:36:17 From Lana To Everyone:
+	i typed ssh in the cmd prompt
+18:36:38 From Kevin Cole To Everyone:
+	(On Windows, Start button, Search button, and search for PowerShell)
+18:37:14 From Joe Ganci To Everyone:
+	I still like Dos
+18:37:17 From Kevin Cole To Everyone:
+	Or Install the Linux Subsystem for Windows -- even better, but it takes longer.
+18:37:17 From Joe Ganci To Everyone:
+	command prompt
+18:37:31 From David Fox To Everyone:
+	its amazing
+18:37:36 From Samuel J Rembisz To Everyone:
+	good 'ol MS-DOS 5
+18:39:45 From Joe Ganci To Everyone:
+	I'm in Ashburn, next to Dulles Airport
+18:40:13 From Lana To Everyone:
+	im just learning Linux now.    win 10mis still installing...
+18:40:34 From Trey To Everyone:
+	I moved from rural Prince George to Midlothian about 8 months ago, and I'm loving having stores within 10 minutes from me now!
+18:40:36 From Michael P. To Everyone:
+	sorry all, I need to log :(  but will see you next meeting!
+18:40:47 From Samuel J Rembisz To Everyone:
+	@Lana Are you still installing the build tools? I will say this process is a lot easier on Linux
+18:41:37 From Joe Ganci To Everyone:
+	Will you be continuing this meetup?
+18:41:51 From Joe Ganci To Everyone:
+	Cool, thanks
+18:42:53 From Kevin Cole To Everyone:
+	Midlothian... Sounds like a place Frodo would have visited... 😉
+18:43:10 From Joe Ganci To Everyone:
+	i use Brackets or Notepad++
+18:43:13 From Trey To Everyone:
+	I used Notepad++ on Windows.
+18:43:20 From Kevin Cole To Everyone:
+	Notepad++ for windows, or Visual Studio Code
+18:43:26 From Samuel J Rembisz To Everyone:
+	If you "Save As" using notepad and change the file type to "Any *.*" it'll allow you to change the file extension
+18:43:29 From Samuel J Rembisz To Everyone:
+	but yeah
+18:43:38 From Samuel J Rembisz To Everyone:
+	please do not use notepad 😁
+18:43:58 From Samuel J Rembisz To Everyone:
+	Nah, much better
+18:44:08 From Joe Ganci To Everyone:
+	Notepad++ is Notepad on super steroids for coding
+18:44:08 From Kevin Cole To Everyone:
+	There's a way to set Notepad to default to doing the right thing, including not screw with line endings.
+18:44:13 From David Fox To Everyone:
+	https://code.visualstudio.com/
+18:44:20 From Trey To Everyone:
+	https://notepad-plus-plus.org/
+18:44:22 From Joe Ganci To Everyone:
+	both Notepad++ and Brackets are free
+18:44:26 From Samuel J Rembisz To Everyone:
+	vscode is my preferred on Linux next to nvim
+18:44:48 From David Fox To Everyone:
+	vscode has a massive extension marketplace, and there are fantastic rust tools
+18:45:08 From Kevin Cole To Everyone:
+	+1 to Trey's links to Notepad++ and Visual Studio Code. Are good choices.
+18:45:17 From Samuel J Rembisz To Everyone:
+	If anyone is looking for useful extensions for Rust once you get into the language, just ask me, there's a couple QOL tools that you can get
+18:45:54 From Kevin Cole To Everyone:
+	I'm an Emacs zealot, but "apt install code" puts visual studio code on your system/
+18:46:01 From Samuel J Rembisz To Everyone:
+	GitHub Copilot does that with Rust Analyzer and breaks everything ;(
+18:49:00 From David Fox To Everyone:
+	vi > emacs
+18:49:12 From Trey To Everyone:
+	+1 vim all the way
+18:49:33 From Samuel J Rembisz To Everyone:
+	imagine using an ide when you can echo your code and pipe it into your file
+18:52:40 From Dave Fuller To Kevin Cole(Direct Message):
+	https://doc.rust-lang.org/book/ch01-01-installation.html
+18:54:54 From Samuel J Rembisz To Everyone:
+	Anybody still on the installation?
+18:56:16 From Joe Ganci To Everyone:
+	If I'm not mistaken, the latest version of javascript have that too and constant means a variable. i'm so confuesed
+18:56:20 From Joe Ganci To Everyone:
+	*confused
+18:56:43 From Samuel J Rembisz To Everyone:
+	I think that's a fair criticism. I think the vocabulary is used for accessibility for programmers that have done programming work in the past. Mutable state is a big thing in Rust
+18:56:45 From Joe Ganci To Everyone:
+	As Spock would say, "That is illogical."
+18:56:54 From Samuel J Rembisz To Everyone:
+	Yes!
+18:56:57 From Samuel J Rembisz To Everyone:
+	Hahaha
+18:57:09 From Samuel J Rembisz To Everyone:
+	Constants are compile time. Immutable variables are created at runtime but don't change
+18:57:21 From David Fox To Everyone:
+	immutability is the umbrella computer science subject, and its familiar to programmers. it is horribly absent in so many other languages
+19:01:55 From Joe Ganci To Everyone:
+	yes, but separately
+19:02:09 From Joe Ganci To Everyone:
+	sof if you can send the recording and copy/paste the chat, that would be cool
+19:03:37 From Joe Ganci To Everyone:
+	Well, I demand my $1,000 back!
+19:04:05 From Trey To Everyone:
+	Wait, he only charged you $1000?
+19:04:15 From David Fox To Everyone:
+	same. im davidlfox on github
+19:04:26 From Joe Ganci To Everyone:
+	Yes, Trey, I got the "cool guy" discount
+19:05:02 From Dave Fuller To Kevin Cole(Direct Message):
+	On github I'm RATechnologies
+19:05:11 From Kevin Cole To Dave Fuller(Direct Message):
+	kjcole on github, ubuntourist on codeberg.org and gitlab
+19:05:42 From Lubna To Everyone:
+	gotta hop off. thank you! see everyone next week!
+19:06:07 From Lana To Everyone:
+	I had to reboot, it is finaly installed.
+19:06:19 From Trey To Everyone:
+	Same here, gotta go. Thanks for hosting the meetup! This has been fun.
+19:06:38 From Samuel J Rembisz To Everyone:
+	@Lana if you're here next week I can help getting you caught up!
+19:07:18 From Lana To Everyone:
+	ok that would be great @Samuel
+19:08:54 From David Fox To Everyone:
+	thanks a lot dave! looking forward to more meetups!@
+19:08:56 From Joe Ganci To Everyone:
+	next week, bring cookies
+19:08:59 From Samuel J Rembisz To Everyone:
+	Oh boy, have fun! Look forward to next week!
