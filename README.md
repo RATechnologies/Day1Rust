@@ -1,5 +1,8 @@
 # Day1Rust
 Repo for learning The Rust Programming language
+## 3rd Meeting  - Common Programming Concepts
+### files for fibonacci
+video link: https://www.youtube.com/watch?v=ERUZPksuC5U
 ## 2nd Meeting
 ### Files for the 2nd Meeting are in the guessing game folder
 the text files are the earlier code versions from the book: https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
