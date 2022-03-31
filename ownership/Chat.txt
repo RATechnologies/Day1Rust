@@ -1,0 +1,2 @@
+00:36:49	Raunak Chitre:	Found an example of how-to mutate a slice, scroll all the way down - https://www.koderhq.com/tutorial/rust/slice/
+00:46:47	David Fox:	https://stackoverflow.com/questions/27318076/edit-string-in-place-with-a-function
